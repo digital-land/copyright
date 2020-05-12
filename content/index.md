@@ -1,3 +1,5 @@
 ---
-title: Sample page for Content Template
+title: Copyright
 ---
+
+Copyright statements.
